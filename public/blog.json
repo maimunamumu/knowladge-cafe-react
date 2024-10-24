@@ -1,0 +1,48 @@
+[
+    {
+      "id": 101,
+      "cover": "https://example.com/cover1.jpg",
+      "author": "Emily Thorne",
+      "author_img": "https://example.com/author1.jpg",
+      "posted_date": "2024-10-01",
+      "reading_time": 10,
+      "hashtag": ["#TechTrends", "#AI"]
+    },
+    {
+      "id": 102,
+      "cover": "https://example.com/cover2.jpg",
+      "author": "James West",
+      "author_img": "https://example.com/author2.jpg",
+      "posted_date": "2024-09-28",
+      "reading_time": 5,
+      "hashtag": ["#Innovation", "#Startups"]
+    },
+    {
+      "id": 103,
+      "cover": "https://example.com/cover3.jpg",
+      "author": "Sophia Lee",
+      "author_img": "https://example.com/author3.jpg",
+      "posted_date": "2024-10-15",
+      "reading_time": 4,
+      "hashtag": ["#Coding", "#JavaScript"]
+    },
+    {
+      "id": 104,
+      "cover": "https://example.com/cover4.jpg",
+      "author": "Mark Spencer",
+      "author_img": "https://example.com/author4.jpg",
+      "posted_date": "2024-09-30",
+      "reading_time": 7,
+      "hashtag": ["#CyberSecurity", "#DataPrivacy"]
+    },
+    {
+      "id": 105,
+      "cover": "https://example.com/cover5.jpg",
+      "author": "Lily Carter",
+      "author_img": "https://example.com/author5.jpg",
+      "posted_date": "2024-10-18",
+      "reading_time":6,
+      "hashtag": ["#Blockchain", "#Crypto"]
+    }
+  ]
+  
